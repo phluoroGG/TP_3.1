@@ -27,7 +27,7 @@
 # Сервисы для работы
 
 [YouGile](https://ru.yougile.com/board/kw1o9ip6kll0) <br /> 
-[Swagger](http://84.201.131.3:30/swagger/)<br />
+[Swagger](https://objectdetection-back-phluorogg.cloud.okteto.net/swagger/)<br />
 
 # Документация
 
