@@ -37,5 +37,5 @@
 [Сопроводительное письмо](https://github.com/phluoroGG/TP_3.1/tree/main/Документация/Сопроводительное%20письмо)<br />
 [Презентация проекта](https://github.com/phluoroGG/TP_3.1/tree/main/Документация/Презентация)<br />
 
-[Видеопрезентация веб-приложения Object Detection](https://drive.google.com/drive/folders/1YJXHADCSeQxEK2nzFCfDc_G3z8-96_P3)<br />
+[Видеопрезентация веб-приложения Object Detection](https://drive.google.com/drive/folders/1KJMN-0-7eZrTf97fgNQMPmSuGAdOxbSx)<br />
 [Видеообзор функционала неавторизованного и авторизованного пользователя](https://drive.google.com/drive/folders/1nq8G3uVE2WmUOP1OIwm3nQ2hZsR4BxXM) <br />
